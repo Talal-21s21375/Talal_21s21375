@@ -4,6 +4,11 @@ Public class loan{
 	Public static void main(String[] args){
 String first name;
 Int Age;
+System.out.printl(“Enter your first name “);
+First_name = user_input.next();
+System.out.printl(“Enter your age “);
+Age = user_input.next();
+
 
 }
 }
