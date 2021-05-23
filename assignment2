@@ -8,6 +8,10 @@ System.out.printl(“Enter your first name “);
 First_name = user_input.next();
 System.out.printl(“Enter your age “);
 Age = user_input.next();
+String loan = [home, personal, car, study];
+for (i=0;i>4;i++)
+read loan[i]
+end for;
 
 
 }
